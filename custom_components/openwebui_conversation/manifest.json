@@ -6,7 +6,6 @@
   ],
   "config_flow": true,
   "dependencies": [
-    "assist_pipeline",
     "conversation"
   ],
   "documentation": "https://github.com/TheRealPSV/ha-openwebui-conversation#options",
@@ -17,5 +16,5 @@
     "markdown-it-py==3.0.0",
     "mdit-plain==1.0.1"
   ],
-  "version": "1.3.0"
+  "version": "1.3.2"
 }
